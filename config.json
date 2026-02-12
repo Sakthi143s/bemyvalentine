@@ -1,0 +1,174 @@
+{
+  "names": {
+    "sender": "Sakthi",
+    "receiver": "Papa"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 YAYYYYY!!! 💖",
+    "successSubtitle": "That's the best decision you've ever made ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, Papaaa!",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!",
+    "marriageTitle": "Will you marry me...? 💍",
+    "marriageSubtitle": "Choose wisely. (The \"No\" button is... still shy.)",
+    "marriageSuccessMessage": "💍 YES YES YES!!! 💍",
+    "marriageSuccessSubtitle": "You just made me the happiest person alive! 💕"
+  },
+  "media": {
+    "logo": "/src/assets/logo.png",
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/couple_photo/couple_photo_1.jpeg",
+      "caption": "Our first special moment together"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_2.jpeg", 
+      "caption": "First meet after a long time"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_3.jpeg",
+      "caption": "Our favorite moments"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_4.jpeg",
+      "caption": "When you made me smile like this"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_5.jpeg",
+      "caption": "Our heart-to-heart talks"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_6.jpeg",
+      "caption": "Your comforting presence"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll cook your fav food like it's my love language 🍳"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I listen… like actually listen"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Live singing performances… just for you 🎶😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Mudhal-Nee-Mudivum-Nee",
+      "duration": "5:32",
+      "album": "Mudhal-Nee-Mudivum-Nee",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Mudhal-Nee-Mudivum-Nee.jpg",
+      "audio": "/src/assets/songs/Mudhal-Nee-Mudivum-Nee.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Kurumugil",
+      "duration": "3:38", 
+      "album": "kurumugil",
+      "artist": "",
+      "cover": "/src/assets/album-covers/kurumugil.jpg",
+      "audio": "/src/assets/songs/Kurumugil.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Nee Paartha Vizhigal",
+      "duration": "04:24",
+      "album": "moonu",
+      "artist": "",
+      "cover": "/src/assets/album-covers/moonu.jpg",
+      "audio": "/src/assets/songs/Nee Paartha Vizhigal.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Anbenum",
+      "duration": "3:34",
+      "album": "Anbenum",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Anbenum.jpg",
+      "audio": "/src/assets/songs/Anbenum-MassTamilan.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Bae",
+      "duration": "4:02",
+      "album": "Bae",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Bae.jpg",
+      "audio": "/src/assets/songs/Bae.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest Papa,",
+    "content": [
+      "I may not hold your hand right now, but I hold you in every thought and every prayer.",
+      "Loving you feels so natural, even across the distance that separates us,",
+      "You are my favorite part of every day, no matter how far apart we are,"
+    ],
+    "signature": "Forever yours,\nSakthi"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter",
+    "toMarriage": "Ask Me Something..."
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
